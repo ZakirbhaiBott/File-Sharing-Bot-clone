@@ -52,6 +52,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FVasubai%2FFile-Sharing-Bot&envs=DISABLE_CHANNEL_BUTTON%2CFORCE_SUB_CHANNEL%2CFORCE_SUB_MESSAGE%2CSTART_MESSAGE%2CADMINS%2CCHANNEL_ID%2COWNER_ID%2CTG_BOT_TOKEN%2CAPI_ID%2CAPI_HASH&optionalEnvs=FORCE_SUB_MESSAGE%2CSTART_MESSAGE&FORCE_SUB_MESSAGEDesc=Optional%3AForce+sub+message+of+bot%2C+use+HTML+and+Fillings&START_MESSAGEDesc=Optional%3A+start+message+of+bot%2C+use+HTML+and+fillings+refer+here.+%3A-+https%3A%2F%2Fgithub.com%2Fcodexbotz%2FFile-Sharing-Bot%2Fblob%2Fmain%2FREADME.md%23start_message&CHANNEL_IDDesc=Your+Channel+ID+eg%3A-+-100xxxxxxxx&DISABLE_CHANNEL_BUTTONDefault=True)
+
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/CodeXBotz/File-Sharing-Bot
