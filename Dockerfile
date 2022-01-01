@@ -6,4 +6,14 @@ RUN pip3 install -r requirements.txt
 
 COPY . .
 
-CMD python3 main.py
+RUN cd /
+
+RUN pip3 install -U pip && pip3 install -U -r requirements.txt
+
+RUN mkdir /File-Sharing-Bot
+
+WORKDIR /File-Sharing-Bot
+
+COPY start.sh /start.sh
+
+CMD ["/bin/bash", "/start.sh"]
