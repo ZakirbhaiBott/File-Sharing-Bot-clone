@@ -10,19 +10,19 @@ TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 APP_ID = environ.get('API_ID')
 
 #Your API Hash from my.telegram.org
-API_HASH = environ.get('API_ID')
+API_HASH = environ.get('API_HASH')
 
 #Your db channel Id
-CHANNEL_ID = environ.get('API_ID')
+CHANNEL_ID = environ.get('CHANNEL_ID')
 
 #OWNER ID
-OWNER_ID = environ.get('API_ID')
+OWNER_ID = environ.get('OWNER_ID')
 
 #Database 
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = environ.get('API_ID')
+FORCE_SUB_CHANNEL = environ.get('FORCE_SUB_CHANNEL')
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
